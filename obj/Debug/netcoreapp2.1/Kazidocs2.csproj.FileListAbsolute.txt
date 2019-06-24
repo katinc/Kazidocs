@@ -1,0 +1,14 @@
+C:\Users\R E N E G A D E\source\repos\Kazidocs2\Kazidocs2\bin\Debug\netcoreapp2.1\Kazidocs2.deps.json
+C:\Users\R E N E G A D E\source\repos\Kazidocs2\Kazidocs2\bin\Debug\netcoreapp2.1\Kazidocs2.runtimeconfig.json
+C:\Users\R E N E G A D E\source\repos\Kazidocs2\Kazidocs2\bin\Debug\netcoreapp2.1\Kazidocs2.runtimeconfig.dev.json
+C:\Users\R E N E G A D E\source\repos\Kazidocs2\Kazidocs2\bin\Debug\netcoreapp2.1\Kazidocs2.dll
+C:\Users\R E N E G A D E\source\repos\Kazidocs2\Kazidocs2\bin\Debug\netcoreapp2.1\Kazidocs2.pdb
+C:\Users\R E N E G A D E\source\repos\Kazidocs2\Kazidocs2\obj\Debug\netcoreapp2.1\Kazidocs2.csprojAssemblyReference.cache
+C:\Users\R E N E G A D E\source\repos\Kazidocs2\Kazidocs2\obj\Debug\netcoreapp2.1\Kazidocs2.csproj.CoreCompileInputs.cache
+C:\Users\R E N E G A D E\source\repos\Kazidocs2\Kazidocs2\obj\Debug\netcoreapp2.1\Kazidocs2.RazorAssemblyInfo.cache
+C:\Users\R E N E G A D E\source\repos\Kazidocs2\Kazidocs2\obj\Debug\netcoreapp2.1\Kazidocs2.RazorAssemblyInfo.cs
+C:\Users\R E N E G A D E\source\repos\Kazidocs2\Kazidocs2\obj\Debug\netcoreapp2.1\Kazidocs2.AssemblyInfoInputs.cache
+C:\Users\R E N E G A D E\source\repos\Kazidocs2\Kazidocs2\obj\Debug\netcoreapp2.1\Kazidocs2.AssemblyInfo.cs
+C:\Users\R E N E G A D E\source\repos\Kazidocs2\Kazidocs2\obj\Debug\netcoreapp2.1\Kazidocs2.RazorTargetAssemblyInfo.cache
+C:\Users\R E N E G A D E\source\repos\Kazidocs2\Kazidocs2\obj\Debug\netcoreapp2.1\Kazidocs2.dll
+C:\Users\R E N E G A D E\source\repos\Kazidocs2\Kazidocs2\obj\Debug\netcoreapp2.1\Kazidocs2.pdb
